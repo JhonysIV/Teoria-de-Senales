@@ -1,3 +1,8 @@
+# Por
+Santiago Galeano Castaño
+Luis Fernando Gamba
+Juan Diego Restrepo Hernandez
+
 # Implementación de un Receptor Digital de Radio FM mediante RTL-SDR y Python
 
 ##  Introducción y Contexto
